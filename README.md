@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamdwexler
-- 👀 I’m interested in functional heteromaterials and surfing.
-- 🌱 I’m currently learning reprap firmware and closed loop control.
-- 💞️ I’m looking to collaborate on developing integrated toolsets for additive manufacturing control.
+- 👀 I’m interested in functional heteromaterials and smart contracts.
+- 🌱 I’m currently learning reprap firmware and Haskell.
+- 💞️ I’m looking to collaborate on developing tools for advanced manufacturing and supply chain management.
 - 📫 You can reach me at adam.wexler@protodromics.com
 
 <!---
